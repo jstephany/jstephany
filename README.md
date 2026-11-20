@@ -84,6 +84,8 @@ description.
 <br/>
 <br/>
 
+---
+
 <img 
       align="left" 
       alt="GitHub Stats" 

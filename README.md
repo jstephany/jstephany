@@ -2,7 +2,7 @@
 
 **`Dev FullStack`**
 
-Estudante do 4º período de Engenharia da Computação buscando adquirir experiência profissional, colaborar em equipe e aperfeiçoar conhecimentos em desenvolvimento de software, aplicando habilidades técnicas e lógica de programação na resolução de problemas em projetos reais.
+Estudante do 4º período de Engenharia da Computação (UFC). Por aqui você encontra meus projetos de estudo, apps mobile, sistemas web e alguns testes no geral buscando aprimorar meus conhecimentos.
 
 ---
 

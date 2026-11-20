@@ -6,7 +6,7 @@ Estudante do 4º período de Engenharia da Computação (UFC). Por aqui você en
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 

@@ -2,7 +2,7 @@
 
 **`Dev FullStack`**
 
-description.
+Estudante do 4º período de Engenharia da Computação buscando adquirir experiência profissional, colaborar em equipe e aperfeiçoar conhecimentos em desenvolvimento de software, aplicando habilidades técnicas e lógica de programação na resolução de problemas em projetos reais.
 
 ---
 
